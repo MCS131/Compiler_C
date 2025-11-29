@@ -1,0 +1,4 @@
+x = 10;
+y = x + 5;
+z = y * 2 - 3;
+result = z div 4 mod 3;
